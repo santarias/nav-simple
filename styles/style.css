@@ -3,7 +3,12 @@ header{
 }
 
 .inicio{
+    font-family: 'Josefin Sans', sans-serif;
     background-color: rgb(75, 160, 127);
+}
+
+.curriculum{
+  font-family: 'Poppins', sans-serif;
 }
 
 nav li{
