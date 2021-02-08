@@ -1,0 +1,29 @@
+header{
+    background-color: rgba(59, 105, 148, 0.596);
+}
+
+.inicio{
+    background-color: rgb(75, 160, 127);
+}
+
+nav li{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li a {
+    color: rgb(241, 200, 200);
+}
+
+.standar {
+    font-size: 2em;
+    color: snow;
+}
+
+.link_contacto{
+    color: black;
+    font-size: 25px;
+}
+
+iframe{
+    border-style: none;
+}
